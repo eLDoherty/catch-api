@@ -1,0 +1,12 @@
+.modal-section {
+    width: 400px;
+    background-color: antiquewhite;
+    border: 3px solid black;
+    text-align: center;
+    padding: 30px;
+    border-radius: 5px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

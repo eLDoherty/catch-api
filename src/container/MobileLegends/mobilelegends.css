@@ -1,0 +1,22 @@
+.mobile-legends input {
+    height: 40px;
+    border: 1px solid black;
+    width: 300px;
+    padding-left: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.mobile-legends button {
+    background-color: transparent;
+    border: 1px solid green;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 100px;
+    transition: 0.3s;
+}
+.mobile-legends button:hover {
+    background-color: green;
+    color: white;
+}
